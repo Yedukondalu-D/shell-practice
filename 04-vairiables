@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "Please Enter the User Name::"
-read USER_NAME
-echo "Please Enter the Password::"
-read PASSWORD
