@@ -1,0 +1,6 @@
+#!/bin/bash
+PERSON1=suresh
+PERSON2=ramesh
+
+echo "$PERSON1 :: HELLO $PERSON2, HOW ARE YOU"
+echo "$PERSON2 :: I AM FINE MR $PERSON1, HOW ARE YOU DOING"
